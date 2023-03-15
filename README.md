@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/61989272/225285037-7e433ec5-6fb1-4707-82c0-99e83bcc6477.png)
+
 # Welcome to Oystr Dev!
 
 We are a team of developers dedicated to the development and maintenance of a private Minecraft server and its Discord bot. As a company, we only have private repositories, so to access our code, you'll need to be part of our team.
